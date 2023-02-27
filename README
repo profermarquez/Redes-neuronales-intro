@@ -1,0 +1,9 @@
+# Se recomienda utilizar un entorno virtual
+# 
+# Requisitos:
+# 
+# pip install tensorflow
+# pip install torch 
+#
+# Fuente ejemplo_tensorflow: https://keepcoding.io/blog/definicion-tensores-deep-learning/
+# Fuente ejemplo pytorch: https://medium.com/latinxinai/tensores-pytorch-ea4ce8ce96dc
